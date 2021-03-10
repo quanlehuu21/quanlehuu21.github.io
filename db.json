@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "projectID": 1,
+      "projectName": "Project 1",
+      "dateOfStart": "2020-07-21",
+      "teamSize": 11
+    },
+    {
+      "id": 2,
+      "projectID": 2,
+      "projectName": "Project 2",
+      "dateOfStart": "2020-05-21",
+      "teamSize": 12
+    },
+    {
+      "projectId": "0101",
+      "projectName": "Project 1",
+      "dateofStart": "04/06/2020",
+      "teamSize": 12,
+      "id": 3
+    }
+ ]
